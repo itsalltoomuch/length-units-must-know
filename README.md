@@ -24,15 +24,19 @@ Here are some rules:
 ```
 1 ft = 30.48 cm
 ```
-[Feet to inches](https://www.calculatorful.com/feet-to-inches)
+Feet to inches
 ```
 1 ft = 12 in
 ```
-[Miles to feet](https://www.calculatorful.com/miles-to-feet)
+Miles to feet
 ```
 1 mi = 5280 mm
 ```
-[Centimeters to inches](https://www.calculatorful.com/centimeters-to-inches)
+[Feet to miles](https://www.calculatorful.com/feet-to-miles)
+```
+1 ft = 1/5280 miles
+```
+Centimeters to inches
 ```
 1 cm = 0.393701 in
 ```
@@ -40,7 +44,7 @@ Here are some rules:
 ```
 1 in = 1/12 ft
 ```
-[Kilometers to miles]([0.621371](https://www.calculatorful.com/kilometers-to-miles))
+Kilometers to miles
 ```
 1 km = 0.621371 mi
 ```
